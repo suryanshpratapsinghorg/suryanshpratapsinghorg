@@ -121,5 +121,5 @@ Unless a license is included in this repository, reuse and redistribution permis
   <br>
   💻 Aspiring Software Engineer
   <br>
-  © 2026 SURYANSH TYPING. All rights reserved.
+  © 2026 SURYANSH  All rights reserved.
 </p>
