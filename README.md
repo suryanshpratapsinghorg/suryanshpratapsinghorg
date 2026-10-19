@@ -45,30 +45,6 @@ I'm continuously learning new skills, improving my problem-solving abilities, an
 - Data Structures and Algorithms (DSA)
 - Responsive Web Design
 - Software Development Fundamentals
-
----
-
-## 🚀 Featured Project: SURYANSH TYPING
-
-**SURYANSH TYPING** is a typing practice website designed to help users improve their typing speed, accuracy, and confidence through structured learning lessons.
-
-### ✨ Key Features
-
-- 📚 **100 Learning Lessons** — Practice typing from beginner to advanced levels.
-- ⌨️ **Touch Typing Practice** — Develop the ability to type without looking at the keyboard.
-- ⚡ **WPM Tracking** — Measure typing speed in words per minute.
-- 🎯 **Accuracy Feedback** — Identify mistakes and improve typing accuracy.
-- ⭐ **Lesson Progress** — Practice lessons and work toward completing them.
-- 🔄 **Retry Lessons** — Repeat lessons to improve your performance.
-- 🏁 **Typing Race Mode** — Make typing practice more fun and engaging.
-- 🎨 **Hacker-Themed UI** — A modern dark interface with neon styling.
-- 🔊 **Sound Effects** — Audio feedback for a more interactive experience.
-- 🔐 **Authentication Support** — Email sign-in can be configured using Firebase.
-
-### 🎯 Project Goal
-
-The goal of SURYANSH TYPING is to make touch typing easier, more engaging, and accessible to learners. Regular practice can help users build typing confidence, improve accuracy, and develop a useful skill for programming and everyday computer work.
-
 ---
 
 ## 📖 What I'm Learning
@@ -117,28 +93,6 @@ The goal of SURYANSH TYPING is to make touch typing easier, more engaging, and a
 - 🤝 Explore open-source contributions.
 - 📚 Keep learning new technologies.
 
----
-
-## 💻 Run SURYANSH TYPING Locally
-
-Follow these steps to run the project on your computer.
-
-1. Clone or download the repository.
-2. Extract the project files if you downloaded a ZIP.
-3. Open the project folder in Visual Studio Code.
-4. Keep the HTML, CSS, JavaScript, and other files in their original folders.
-5. Open `index.html` in a browser or use the Live Server extension in VS Code.
-6. If you use Firebase authentication, configure your own Firebase project and credentials.
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/suryanshpratapsinghorg/suryanshpratapsinghorg.git
-```
-
-> Make sure the repository contains the website source files before running the project.
-
----
 
 ## 🤝 Let's Connect
 
