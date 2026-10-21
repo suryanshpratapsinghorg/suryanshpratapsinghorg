@@ -44,27 +44,6 @@
 
 ###
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
-
-###
-
-<div data-importer="socials" align="left">
-  <a href="https://www.linkedin.com/in/suryanshpratapsinghofficial/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/officialspsp" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="suryanshpratapsinghofficial@programmer.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/suryanshpratapsinghofficial/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
 <div data-importer="music" align="center">
  
   <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31dbbtapgur3oetvxoo5jq6e6sxq&amp;duration=1" alt="Spotify recently played" width="400" />
