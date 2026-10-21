@@ -1,125 +1,72 @@
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-# 👋 Hi, I'm Suryansh Pratap Singh
+###
 
-### 💻 Aspiring Software Engineer | C & Java Programmer | Web Development Enthusiast
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-Welcome to my GitHub profile! 🚀
+###
 
-I'm **Suryansh Pratap Singh**, an aspiring Software Engineer passionate about programming, technology, web development, and building useful digital projects.
+<h1 data-importer="text" align="center">hey there 👋</h1>
 
-I'm continuously learning new skills, improving my problem-solving abilities, and turning creative ideas into practical applications.
+###
 
----
+<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
 
-## 👨‍💻 About Me
+###
 
-- 👤 **Name:** Suryansh Pratap Singh
-- 💻 **Career Goal:** Become a skilled Software Engineer
-- 🧑‍💻 **Programming Languages:** C and Java
-- 🌐 **Web Technologies:** HTML, CSS, and JavaScript
-- ⌨️ **Interest:** Touch Typing and Coding Productivity
-- 🧠 **Currently Learning:** Programming fundamentals, web development, and problem-solving
-- 🚀 **Focus:** Building projects and improving my technical skills
-- 📍 **Location:** Bhopal, Madhya Pradesh, India
+<p data-importer="text" align="left">I'm  from Bhopal <br><br>- 📚 I'm currently learning ...</p>
 
----
+###
 
-## 🛠️ Skills & Technologies
+<h3 data-importer="text" align="left">🛠 Language and tools</h3>
 
-### Programming Languages
-- C Programming
-- Java Programming
+###
 
-### Web Development
-- HTML5
-- CSS3
-- JavaScript
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
+</div>
 
-### Tools
-- Git
-- GitHub
-- Visual Studio Code
+###
 
-### Currently Exploring
-- Object-Oriented Programming (OOP)
-- Data Structures and Algorithms (DSA)
-- Responsive Web Design
-- Software Development Fundamentals
----
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
 
-## 📖 What I'm Learning
+###
 
-### 💻 C Programming
-- Variables and data types
-- Operators and expressions
-- Conditional statements
-- Loops
-- Functions
-- Arrays and strings
-- Pointers and structures
+<div data-importer="socials" align="left">
+  <a href="https://www.linkedin.com/in/suryanshpratapsinghofficial/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/officialspsp" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="suryanshpratapsinghofficial@programmer.net" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/suryanshpratapsinghofficial/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
 
-### ☕ Java Programming
-- Java fundamentals
-- Classes and objects
-- Object-Oriented Programming
-- Inheritance and polymorphism
-- Exception handling
-- Collections and file handling
+###
 
-### 🌐 Web Development
-- HTML for website structure
-- CSS for design and layouts
-- JavaScript for functionality
-- Responsive website development
-- Frontend project building
+<div data-importer="music" align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
+</div>
 
-### ⌨️ Touch Typing
-- Correct finger placement
-- Home-row technique
-- Typing without looking at the keyboard
-- Improving WPM and accuracy
-- Building speed through daily practice
-
----
-
-## 🎯 My Goals
-
-- ✅ Strengthen my C programming fundamentals.
-- ☕ Improve my Java programming skills.
-- 🌐 Build interactive and responsive websites.
-- ⌨️ Improve my typing speed and accuracy.
-- 🧠 Learn Data Structures and Algorithms.
-- 🚀 Build useful software and real-world projects.
-- 🤝 Explore open-source contributions.
-- 📚 Keep learning new technologies.
-
-
-## 🤝 Let's Connect
-
-I'm always interested in learning, building projects, and exploring new ideas.
-
-- 💻 **GitHub Profile:** [@suryanshpratapsinghorg](https://github.com/suryanshpratapsinghorg)
-- 📂 **GitHub Repository:** [Suryansh Projects](https://github.com/suryanshpratapsinghorg/suryanshpratapsinghorg)
-- 📸 **Instagram:** [@suryanshpratapsinghofficial](https://www.instagram.com/suryanshpratapsinghofficial/)
-
----
-
-## 💡 My Motto
-
-> "Learn every day. Code with passion. Build with purpose."
-
----
-
-## 📄 License
-
-Unless a license is included in this repository, reuse and redistribution permissions are not explicitly granted. Add a `LICENSE` file to specify how others may use, modify, and distribute this project.
-
----
-
-<p align="center">
-  <strong>Made with ❤️ by Suryansh Pratap Singh</strong>
-  <br>
-  💻 Aspiring Software Engineer
-  <br>
-  © 2026 SURYANSH  All rights reserved.
-</p>
+###
